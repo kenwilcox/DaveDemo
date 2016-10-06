@@ -1,0 +1,12 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+*\obj
+*\bin
+*\Debug
+*\Release
+
+# I don't want the project.lock.json to be in source control
+project.lock.json
